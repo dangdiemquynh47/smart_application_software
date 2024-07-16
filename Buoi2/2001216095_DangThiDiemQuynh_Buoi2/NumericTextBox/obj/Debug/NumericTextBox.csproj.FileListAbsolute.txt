@@ -1,0 +1,5 @@
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\NumericTextBox\bin\Debug\NumericTextBox.dll
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\NumericTextBox\bin\Debug\NumericTextBox.pdb
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.dll
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\NumericTextBox\obj\Debug\NumericTextBox.pdb

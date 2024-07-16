@@ -1,0 +1,4 @@
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\LibComponents\bin\Debug\LibComponents.dll
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\LibComponents\bin\Debug\LibComponents.pdb
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\LibComponents\obj\Debug\LibComponents.dll
+E:\LuuDuLieuSV\Quynh\Buoi2\2001216095_DangThiDiemQuynh_Buoi2\LibComponents\obj\Debug\LibComponents.pdb
